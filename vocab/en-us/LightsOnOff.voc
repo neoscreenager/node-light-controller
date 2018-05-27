@@ -1,0 +1,5 @@
+Turn {{Color}} light {{State}}
+Turn {{State}} the {{Color}} light
+Turn {{State}} this {{Color}} light
+Turn this {{Color}} light {{State}}
+{{Color}} light {{State}}
