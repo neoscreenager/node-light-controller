@@ -1,7 +1,3 @@
-To submit your skill, replace this file with text from 
-https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
-
-
 ## node-light-controller
 This skill allows to voice control LEDs attached with NodeMCU microcontroller using Thinger.io server (cloud/local instance).
 
