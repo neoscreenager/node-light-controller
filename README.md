@@ -12,6 +12,11 @@ control IoT devices via voice. As an example, room temperature sensor could be a
 tutorial on how to connect it with NodeMCU : http://www.instructables.com/id/Interface-LM35-With-NodeMCU/ ) and with few code addition, this skill allows Mycroft to fetch room temperature reading using voice command. 
 This skill has not yet been submitted to Mycroft skill set, as some code modifications ( like reading the authentication headers from config files) need to be done.
 The sketch is also provided with this code (NodeMCUThinger.ino) which can be flashed into a NodeMCU unit.
+Also, this repository contains a PDF file with overview of components required for creating and using this skill.
+Demo videos on YouTube:
+1. https://youtu.be/2W1dCUOKwTw    Demo to turn LEDs ON/OFF
+2. https://youtu.be/Tw6L6K-t1TA    Demo to query room temperature
+3. https://youtu.be/Zdkx1vZKKfw    Screencast walkthrough under the hood
 
 ## Examples 
 * "Turn red light on"
