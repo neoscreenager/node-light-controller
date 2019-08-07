@@ -1,5 +1,5 @@
 ## node-light-controller
-This skill allows to voice control LEDs attached with NodeMCU microcontroller using Thinger.io server (cloud/local instance).
+This skill allows to voice control LEDs/sensors attached with NodeMCU microcontroller using Thinger.io server (cloud/local instance).
 
 ## Description 
 This skills allows to turn on/off, the Red/Green LEDs attached with NodeMCU microcontroller.
